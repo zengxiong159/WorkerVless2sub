@@ -1,4 +1,4 @@
-name = "vless2sub-worker"
+name = "sub-edgetunnel"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
 keep_vars = true
